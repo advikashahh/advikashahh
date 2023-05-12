@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advikashahh
 - 👀 I’m interested in web dev and designing.
-- 🌱 I’m currently learning HTML/CSS.
+- 🌱 I’m currently learning backend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adianshi001@gmail.com
 
