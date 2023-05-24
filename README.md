@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @advikashahh
 - 👀 I’m interested in web dev and designing.
-- 🌱 I’m currently learning backend.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning REACTJS.
+-
+- 💞️ I’m looking to collaborate on more frontend projects.
 - 📫 How to reach me adianshi001@gmail.com
 
 <!---
