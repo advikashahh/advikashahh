@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Node-Express Project.**
 
-- 🌱 I’m currently learning **Node, Express and MongoDB**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Web dev and Mern Stack Projects.**
 
