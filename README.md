@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advika SHAH</h1>
-<h3 align="center">Software Engineer.Frontend developer. </h3>
+<h3 align="center">Frontend developer. Willing to switch to Full Stack developer as well. </h3>
 
 - 🔭 I’m currently working on **Node-Express Project.**
 
