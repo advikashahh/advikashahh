@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Web dev and Mern Stack Projects.**
+- 👯 I’m looking to collaborate on **Frontend projects and UI.**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,JAVA.**
 
